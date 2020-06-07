@@ -2,7 +2,7 @@
 
 Bash script to start/stop OpenVPN service for IIITH users.
 
-Execute the script as a root user
+Execute the script as a root user and openvpn runs as a daemon (background) process.
 
 ``` console
 
